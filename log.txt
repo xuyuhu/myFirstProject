@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 这是本地代码，我要合并到主干上去。
 
 test again！
 新增本地代码合并到主干。
 =======
 this is master code! test merge.
->>>>>>> 87eca380b44d613a39331622a386a4dc2c6a6c11
